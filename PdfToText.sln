@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfToText", "PdfToText\PdfToText.csproj", "{2FEA3679-5000-489F-A9B5-260570523AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEA3679-5000-489F-A9B5-260570523AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEA3679-5000-489F-A9B5-260570523AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEA3679-5000-489F-A9B5-260570523AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEA3679-5000-489F-A9B5-260570523AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66845BF0-2E1E-4F92-A28E-64C9A3D36DC9}
+	EndGlobalSection
+EndGlobal
