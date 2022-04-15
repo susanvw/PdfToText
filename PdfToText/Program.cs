@@ -6,7 +6,7 @@ using System.Text;
 
 namespace PdfToText
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         { 
